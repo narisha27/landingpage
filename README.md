@@ -1,4 +1,3 @@
-# landingpage
 <!DOCTYPE html>
 <html lang="id">
 <head>
